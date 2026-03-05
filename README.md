@@ -1,0 +1,2 @@
+# Machine-Learning-Full-Project-How-to-Create-Language-Detection-Model-Google-Translate
+🤖 Language Translation Machine Learning Project  This project builds a machine learning–based language translation model 🌍 using NLP techniques 🧠. It covers data preparation 📊, neural network design ⚙️, model training 🏋️, and evaluation 📈 to translate text between languages, similar to systems like Google Translate. ✨
